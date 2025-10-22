@@ -1,1 +1,1 @@
-# Elist eCommerce Analysis and Recommendation
+# Elist eCommerce Analysis and Recommendation - Project Overview
